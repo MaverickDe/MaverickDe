@@ -36,11 +36,10 @@ Contacts
 
 **
 
-
-Being a programmer is not by how may programming language or frame work you know or how manth third party module you storein your head
-but by how good you are i using the knowledge you have acquired to manipulate and improvise functions to achieve your result
+Being a programmer is not by how may programming language or frame work you know or how many third party module you know but by how good you are using the knowledge you have acquired to manipulate and improvise functions to achieve your result
 
 so next time if you can improvise , please do
+
 
 
 **
