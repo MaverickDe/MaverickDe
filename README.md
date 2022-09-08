@@ -19,7 +19,7 @@
 
 
 ```
-Current Working project
+Current  project
 ```
 ![download (5)](https://user-images.githubusercontent.com/100746581/187122396-33a33226-53be-4a42-8407-08f7ce7caba6.jpg)
 - Publish to git hub with a single line of code
@@ -27,14 +27,26 @@ Current Working project
 With this job you are  able to publish to your github account with a single line of code after you git hub account is currently loggin,
 this will save the stress of writing the code to executing line by line
 
+visit the github repo at [github-cli.git](https://github.com/MaverickDe/github-cli.git)
 
 
+```
+Current working project
+```
+
+![download (7)](https://user-images.githubusercontent.com/100746581/189029505-2b8f0671-9c61-4205-811c-d16dcf3e88d0.jpg)
+- Http proxy
+
+
+HTTP proxy integration is a simple, powerful, and versatile mechanism to build an API that allows a web application to access multiple resources or features of the integrated HTTP endpoint, for example the entire website, with a streamlined setup of a single API method. In HTTP proxy integration, API Gateway passes the client-submitted method request to the backend. The request data that is passed through includes the request headers, query string parameters, URL path variables, and payload. The backend HTTP endpoint or the web server parses the incoming request data to determine the response that it returns. HTTP proxy integration makes the client and backend interact directly with no intervention from API Gateway after the API method is set up, except for known issues such as unsupported characters
+```
 Contacts
+```
 - [Twitter](https://twitter.com/Princemave123)
--  [LinkedIn](nkedin.com/in/princewill-asotibe-b31036204/)
+-  [LinkedIn](linkedin.com/in/princewill-asotibe-b31036204/)
 
 
-**
+
 
 Being a programmer is not by how may programming language or frame work you know or how many third party module you know but by how good you are using the knowledge you have acquired to manipulate and improvise functions to achieve your result
 
