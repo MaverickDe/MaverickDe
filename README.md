@@ -29,6 +29,19 @@ this will save the stress of writing the code to executing line by line
 
 visit the github repo at [github-cli.git](https://github.com/MaverickDe/github-cli.git)
 
+```
+Links to Visualize project
+```
+🔗  -- [traverseroute](https://routetraverse.herokuapp.com/)
+🔗  -- [banking app](https://bankingapp12.herokuapp.com/)
+🔗  -- [zoom](https://videoroomapp.herokuapp.com/)
+🔗  -- [YEMA Videoframes](https://videoframes.herokuapp.com/)
+🔗  -- [web efect](https://github.com/MaverickDe/canvas-web-effect)
+
+
+
+
+
 
 ```
 Current working project
