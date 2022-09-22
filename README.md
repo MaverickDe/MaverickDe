@@ -30,7 +30,7 @@ this will save the stress of writing the code to executing line by line
 visit the github repo at [github-cli.git](https://github.com/MaverickDe/github-cli.git)
 
 ```
-Links to Visualize project
+Links to Visible project
 ```
 🔗  -- [traverseroute](https://routetraverse.herokuapp.com/)
 🔗  -- [banking app](https://bankingapp12.herokuapp.com/)
