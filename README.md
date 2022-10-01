@@ -1,7 +1,7 @@
  ![mohammad-rahmani-8qEB0fTe9Vw-unsplash](https://user-images.githubusercontent.com/100746581/187123515-48ed0f7b-325d-4629-9cb4-f7b50ca60320.jpg)
 ```
  
- **👋 Hi, I’m Asotibe PRincewill onyemaechi**
+ 
  ```
  
  
@@ -9,8 +9,24 @@
  🌱 I’m  a full stack
  Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems.• Proficient in various platforms, languages, and embedded systems.• Experienced with the latest cutting edge development tools and procedures.•   Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
+ ```
+ Tech Stack
+ ```
+ I work with 
+ * javascript, 
+ * reacjs , 
+ * nodejs 
+ * Express JS
+ * Docker
+ * GraphQL
+ * SQL
+ * python
+ * Django
  
- I work with javascript, reacjs , nodejs and python
+ 
+ 
+
+ 
  i am cureently enhanccing my knowledge in machine learning and data science with python libraires like panda and numpy
  
  
